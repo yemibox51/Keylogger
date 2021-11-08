@@ -9,6 +9,6 @@ int main(){
 		for(int j = i; j < 5; j++) {
 			cout << "#";
 		}
-		cout << endl;
+		cout << endl; 
 	}
 }
